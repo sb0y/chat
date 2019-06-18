@@ -4,4 +4,4 @@
 
 build qtcreator:
 
-add make parameters: install INSTALL_ROOT=<path out>
+add make parameters: install INSTALL_ROOT=&lt;path out&gt;
