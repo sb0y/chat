@@ -52,6 +52,8 @@ LIBS += \
     -lssl \
     -lcrypto \
     -lsodium \
+    -lm \
+    -ldl \
     -L$$(INSTALL_ROOT)/lib
 
 # Additional import path used to resolve QML modules in Qt Creator's code model
